@@ -4,3 +4,5 @@
 .tox
 .coverage
 .idea
+venv
+env
